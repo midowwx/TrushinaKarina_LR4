@@ -1,4 +1,7 @@
 <Solution>
+  <Folder Name="/Элементы решения/">
+    <File Path="README.md" />
+  </Folder>
   <Project Path="BookCatalog/BookCatalog.csproj" />
   <Project Path="BookTest/BookTest.csproj" />
 </Solution>
